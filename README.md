@@ -57,12 +57,12 @@
 **在线考试系统教师端:** http://maweitao.top/onlineexam-teacher
 
 ## 6. 部分演示截图
-
-<p align="center">
-	<img src="http://qiniu.maweitao.top/teacher-home.png" alt="Sample">
-	<p align="center">
-    <em>在线考试系统教师端首页</em>
-  </p>
-</p>
-
-
+![taRJED.png](https://s1.ax1x.com/2020/06/03/taRJED.png)
+![taRa8A.png](https://s1.ax1x.com/2020/06/03/taRa8A.png)
+![taR5rV.png](https://s1.ax1x.com/2020/06/03/taR5rV.png)
+![taRqPJ.png](https://s1.ax1x.com/2020/06/03/taRqPJ.png)
+![taWkRA.png](https://s1.ax1x.com/2020/06/03/taWkRA.png)
+![taWnZ8.png](https://s1.ax1x.com/2020/06/03/taWnZ8.png)
+![taWJs0.png](https://s1.ax1x.com/2020/06/03/taWJs0.png)
+![taW6L6.png](https://s1.ax1x.com/2020/06/03/taW6L6.png)
+![taWoQI.png](https://s1.ax1x.com/2020/06/03/taWoQI.png)
